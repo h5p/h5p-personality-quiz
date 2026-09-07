@@ -1,7 +1,7 @@
 /**
     @namespace H5P
 */
-var H5P = H5P || {};
+var H5P = window.H5P = window.H5P || {};
 
 
 
